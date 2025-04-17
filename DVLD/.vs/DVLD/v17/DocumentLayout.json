@@ -1,0 +1,792 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53658C5A-ADB8-4C48-B3EA-3278297D7C68}|..\\DVLD_Business\\DVLD_Business.csproj|c:\\users\\reda\\onedrive\\desktop\\dvld fullproject\\dvld_business\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DC833E-A08E-4459-BB8D-12BDB30955BE}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\reda\\onedrive\\desktop\\dvld fullproject\\dvld_dataaccess\\clsdetainedlicensedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\global classes\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:global classes\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\tests\\frmlisttestappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:tests\\frmlisttestappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\people\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:people\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\people\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:people\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53658C5A-ADB8-4C48-B3EA-3278297D7C68}|..\\DVLD_Business\\DVLD_Business.csproj|c:\\users\\reda\\onedrive\\desktop\\dvld fullproject\\dvld_business\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\people\\frmshowpersondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:people\\frmshowpersondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\people\\frmshowpersondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:people\\frmshowpersondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DC833E-A08E-4459-BB8D-12BDB30955BE}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\reda\\onedrive\\desktop\\dvld fullproject\\dvld_dataaccess\\clsdriverdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\applications\\international license\\frmlistinternationallicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:applications\\international license\\frmlistinternationallicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\licenses\\international licenses\\frmshowinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:licenses\\international licenses\\frmshowinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\licenses\\international licenses\\frmshowinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:licenses\\international licenses\\frmshowinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\applications\\international license\\frmnewinternationallicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:applications\\international license\\frmnewinternationallicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\applications\\international license\\frmlistinternationallicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:applications\\international license\\frmlistinternationallicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\licenses\\international licenses\\frmshowinternationallicenseinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:licenses\\international licenses\\frmshowinternationallicenseinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\drivers\\frmlistdrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:drivers\\frmlistdrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\applications\\international license\\frmnewinternationallicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:applications\\international license\\frmnewinternationallicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\licenses\\controls\\ctrldriverlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:licenses\\controls\\ctrldriverlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\applications\\release detained license\\frmreleasedetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:applications\\release detained license\\frmreleasedetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\applications\\release detained license\\frmlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:applications\\release detained license\\frmlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\applications\\release detained license\\frmreleasedetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:applications\\release detained license\\frmreleasedetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\licenses\\local licenses\\controls\\ctrldrivinglicenseinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:licenses\\local licenses\\controls\\ctrldrivinglicenseinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\applications\\release detained license\\frmlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:applications\\release detained license\\frmlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\licenses\\detain licenses\\frmdetainlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:licenses\\detain licenses\\frmdetainlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\licenses\\detain licenses\\frmdetainlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:licenses\\detain licenses\\frmdetainlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\licenses\\local licenses\\controls\\ctrldrivinglicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:licenses\\local licenses\\controls\\ctrldrivinglicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\licenses\\local licenses\\controls\\ctrldrivinglicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:licenses\\local licenses\\controls\\ctrldrivinglicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\applications\\replacelostordamagedlicense\\frmreplacelostordamagedlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:applications\\replacelostordamagedlicense\\frmreplacelostordamagedlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\drivers\\frmlistdrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:drivers\\frmlistdrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\licenses\\local licenses\\controls\\ctrldrivinglicenseinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:licenses\\local licenses\\controls\\ctrldrivinglicenseinfowithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\applications\\replacelostordamagedlicense\\frmreplacelostordamagedlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:applications\\replacelostordamagedlicense\\frmreplacelostordamagedlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\applications\\renew local driving licence\\frmrenewlocaldrivinglicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:applications\\renew local driving licence\\frmrenewlocaldrivinglicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\licenses\\local licenses\\frmshowdriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:licenses\\local licenses\\frmshowdriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\tests\\frmscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91161BF7-553B-4EF7-9DD0-FDB2EFF8BE1F}|DVLD.csproj|solutionrelative:tests\\frmscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD_Business\\clsInternationalLicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD_Business\\clsLicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 317,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD_Business\\clsUser.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Business\\clsUser.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD_Business\\clsUser.cs",
+              "RelativeToolTip": "..\\DVLD_Business\\clsUser.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:12:38.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsDetainedLicenseData.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD_DataAccess\\clsDetainedLicenseData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsDetainedLicenseData.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD_DataAccess\\clsDetainedLicenseData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsDetainedLicenseData.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:11:09.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsGlobal.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Global Classes\\clsGlobal.cs",
+              "RelativeDocumentMoniker": "Global Classes\\clsGlobal.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Global Classes\\clsGlobal.cs",
+              "RelativeToolTip": "Global Classes\\clsGlobal.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAcwE8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:25:36.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Login\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Login\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Login\\FrmLogin.cs",
+              "RelativeToolTip": "Login\\FrmLogin.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:25:22.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Login\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Login\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Login\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "Login\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:25:19.816Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmListTestAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Tests\\FrmListTestAppointment.cs",
+              "RelativeDocumentMoniker": "Tests\\FrmListTestAppointment.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Tests\\FrmListTestAppointment.cs",
+              "RelativeToolTip": "Tests\\FrmListTestAppointment.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAuwEcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:31:09.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ctrlPersonCardWithFilter.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "RelativeToolTip": "People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAYwGsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T21:55:38.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmAddUpdatePerson.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\People\\FrmAddUpdatePerson.cs",
+              "RelativeDocumentMoniker": "People\\FrmAddUpdatePerson.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\People\\FrmAddUpdatePerson.cs",
+              "RelativeToolTip": "People\\FrmAddUpdatePerson.cs",
+              "ViewState": "AQIAAAgBAAAAAAAAAAAIwDYBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:24:23.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\FrmMain.cs",
+              "RelativeDocumentMoniker": "FrmMain.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\FrmMain.cs [Design]",
+              "RelativeToolTip": "FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:45:06.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmChangePassword.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Users\\FrmChangePassword.cs",
+              "RelativeDocumentMoniker": "Users\\FrmChangePassword.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Users\\FrmChangePassword.cs",
+              "RelativeToolTip": "Users\\FrmChangePassword.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwFQAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:40:33.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmAddUpdatePerson.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\People\\FrmAddUpdatePerson.cs",
+              "RelativeDocumentMoniker": "People\\FrmAddUpdatePerson.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\People\\FrmAddUpdatePerson.cs [Design]",
+              "RelativeToolTip": "People\\FrmAddUpdatePerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:38:02.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmListPeople.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\People\\FrmListPeople.cs",
+              "RelativeDocumentMoniker": "People\\FrmListPeople.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\People\\FrmListPeople.cs",
+              "RelativeToolTip": "People\\FrmListPeople.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:32:46.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmListPeople.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\People\\FrmListPeople.cs",
+              "RelativeDocumentMoniker": "People\\FrmListPeople.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\People\\FrmListPeople.cs [Design]",
+              "RelativeToolTip": "People\\FrmListPeople.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:50:38.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmListUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Users\\FrmListUsers.cs",
+              "RelativeDocumentMoniker": "Users\\FrmListUsers.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Users\\FrmListUsers.cs [Design]",
+              "RelativeToolTip": "Users\\FrmListUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:35:20.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmListUsers.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Users\\FrmListUsers.cs",
+              "RelativeDocumentMoniker": "Users\\FrmListUsers.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Users\\FrmListUsers.cs",
+              "RelativeToolTip": "Users\\FrmListUsers.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAADwv1gAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:35:28.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ctrlPersonCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\People\\Controls\\ctrlPersonCard.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\ctrlPersonCard.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\People\\Controls\\ctrlPersonCard.cs [Design]",
+              "RelativeToolTip": "People\\Controls\\ctrlPersonCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:04:59.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ctrlPersonCard.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\People\\Controls\\ctrlPersonCard.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\ctrlPersonCard.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\People\\Controls\\ctrlPersonCard.cs",
+              "RelativeToolTip": "People\\Controls\\ctrlPersonCard.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAmwCsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:05:04.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ctrlPersonCardWithFilter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\People\\Controls\\ctrlPersonCardWithFilter.cs [Design]",
+              "RelativeToolTip": "People\\Controls\\ctrlPersonCardWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T21:34:00.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD_Business\\clsPerson.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Business\\clsPerson.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD_Business\\clsPerson.cs",
+              "RelativeToolTip": "..\\DVLD_Business\\clsPerson.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAwFkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:50:25.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmShowPersonDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\People\\FrmShowPersonDetails.cs",
+              "RelativeDocumentMoniker": "People\\FrmShowPersonDetails.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\People\\FrmShowPersonDetails.cs [Design]",
+              "RelativeToolTip": "People\\FrmShowPersonDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:18:33.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmShowPersonDetails.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\People\\FrmShowPersonDetails.cs",
+              "RelativeDocumentMoniker": "People\\FrmShowPersonDetails.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\People\\FrmShowPersonDetails.cs",
+              "RelativeToolTip": "People\\FrmShowPersonDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:53:51.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "clsDriverData.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD_DataAccess\\clsDriverData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsDriverData.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD_DataAccess\\clsDriverData.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsDriverData.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAowIIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T23:49:46.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmShowInternationalLicenseInfo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Licenses\\International Licenses\\FrmShowInternationalLicenseInfo.Designer.cs",
+              "RelativeDocumentMoniker": "Licenses\\International Licenses\\FrmShowInternationalLicenseInfo.Designer.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Licenses\\International Licenses\\FrmShowInternationalLicenseInfo.Designer.cs",
+              "RelativeToolTip": "Licenses\\International Licenses\\FrmShowInternationalLicenseInfo.Designer.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAswGUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:24:18.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmListInternationalLicenseApplications.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Applications\\International License\\FrmListInternationalLicenseApplications.cs",
+              "RelativeDocumentMoniker": "Applications\\International License\\FrmListInternationalLicenseApplications.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Applications\\International License\\FrmListInternationalLicenseApplications.cs",
+              "RelativeToolTip": "Applications\\International License\\FrmListInternationalLicenseApplications.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:07:13.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmListInternationalLicenseApplications.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Applications\\International License\\FrmListInternationalLicenseApplications.cs",
+              "RelativeDocumentMoniker": "Applications\\International License\\FrmListInternationalLicenseApplications.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD\\Applications\\International License\\FrmListInternationalLicenseApplications.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\International License\\FrmListInternationalLicenseApplications.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:02:48.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmShowInternationalLicenseInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Licenses\\International Licenses\\FrmShowInternationalLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Licenses\\International Licenses\\FrmShowInternationalLicenseInfo.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD\\Licenses\\International Licenses\\FrmShowInternationalLicenseInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Licenses\\International Licenses\\FrmShowInternationalLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:49:25.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmListDrivers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Drivers\\FrmListDrivers.cs",
+              "RelativeDocumentMoniker": "Drivers\\FrmListDrivers.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD\\Drivers\\FrmListDrivers.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Drivers\\FrmListDrivers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:52:41.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmShowInternationalLicenseInfo.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Licenses\\International Licenses\\FrmShowInternationalLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Licenses\\International Licenses\\FrmShowInternationalLicenseInfo.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Licenses\\International Licenses\\FrmShowInternationalLicenseInfo.cs",
+              "RelativeToolTip": "Licenses\\International Licenses\\FrmShowInternationalLicenseInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:57:37.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmNewInternationalLicenseApplication.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Applications\\International License\\FrmNewInternationalLicenseApplication.cs",
+              "RelativeDocumentMoniker": "Applications\\International License\\FrmNewInternationalLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Applications\\International License\\FrmNewInternationalLicenseApplication.cs",
+              "RelativeToolTip": "Applications\\International License\\FrmNewInternationalLicenseApplication.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwHwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:48:23.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmNewInternationalLicenseApplication.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Applications\\International License\\FrmNewInternationalLicenseApplication.cs",
+              "RelativeDocumentMoniker": "Applications\\International License\\FrmNewInternationalLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD\\Applications\\International License\\FrmNewInternationalLicenseApplication.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\International License\\FrmNewInternationalLicenseApplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:46:03.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "clsInternationalLicense.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD_Business\\clsInternationalLicense.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLD_Business\\clsInternationalLicense.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD_Business\\clsInternationalLicense.cs",
+              "RelativeToolTip": "..\\..\\DVLD_Business\\clsInternationalLicense.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:31:02.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ctrlDriverLicense.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Licenses\\Controls\\ctrlDriverLicense.cs",
+              "RelativeDocumentMoniker": "Licenses\\Controls\\ctrlDriverLicense.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Licenses\\Controls\\ctrlDriverLicense.cs",
+              "RelativeToolTip": "Licenses\\Controls\\ctrlDriverLicense.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAuwH4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T19:09:50.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FrmListDetainedLicenses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Applications\\Release Detained License\\FrmListDetainedLicenses.cs",
+              "RelativeDocumentMoniker": "Applications\\Release Detained License\\FrmListDetainedLicenses.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD\\Applications\\Release Detained License\\FrmListDetainedLicenses.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\Release Detained License\\FrmListDetainedLicenses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:16:26.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrmReleaseDetainedLicense.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Applications\\Release Detained License\\FrmReleaseDetainedLicense.cs",
+              "RelativeDocumentMoniker": "Applications\\Release Detained License\\FrmReleaseDetainedLicense.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Applications\\Release Detained License\\FrmReleaseDetainedLicense.cs",
+              "RelativeToolTip": "Applications\\Release Detained License\\FrmReleaseDetainedLicense.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwFQAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:07:21.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FrmReleaseDetainedLicense.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Applications\\Release Detained License\\FrmReleaseDetainedLicense.cs",
+              "RelativeDocumentMoniker": "Applications\\Release Detained License\\FrmReleaseDetainedLicense.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD\\Applications\\Release Detained License\\FrmReleaseDetainedLicense.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\Release Detained License\\FrmReleaseDetainedLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:02:58.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FrmDetainLicenseApplication.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Licenses\\Detain Licenses\\FrmDetainLicenseApplication.cs",
+              "RelativeDocumentMoniker": "Licenses\\Detain Licenses\\FrmDetainLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Licenses\\Detain Licenses\\FrmDetainLicenseApplication.cs",
+              "RelativeToolTip": "Licenses\\Detain Licenses\\FrmDetainLicenseApplication.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAmwE4AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T16:14:51.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "clsLicense.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD_Business\\clsLicense.cs",
+              "RelativeDocumentMoniker": "..\\..\\DVLD_Business\\clsLicense.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD_Business\\clsLicense.cs",
+              "RelativeToolTip": "..\\..\\DVLD_Business\\clsLicense.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T21:21:10.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FrmListDetainedLicenses.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Applications\\Release Detained License\\FrmListDetainedLicenses.cs",
+              "RelativeDocumentMoniker": "Applications\\Release Detained License\\FrmListDetainedLicenses.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Applications\\Release Detained License\\FrmListDetainedLicenses.cs",
+              "RelativeToolTip": "Applications\\Release Detained License\\FrmListDetainedLicenses.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAswKEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:23:12.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ctrlDrivingLicenseInfoWithFilter.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Licenses\\Local Licenses\\Controls\\ctrlDrivingLicenseInfoWithFilter.cs",
+              "RelativeDocumentMoniker": "Licenses\\Local Licenses\\Controls\\ctrlDrivingLicenseInfoWithFilter.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Licenses\\Local Licenses\\Controls\\ctrlDrivingLicenseInfoWithFilter.cs",
+              "RelativeToolTip": "Licenses\\Local Licenses\\Controls\\ctrlDrivingLicenseInfoWithFilter.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwEgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:02:15.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ctrlDrivingLicenseInfo.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Licenses\\Local Licenses\\Controls\\ctrlDrivingLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Licenses\\Local Licenses\\Controls\\ctrlDrivingLicenseInfo.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Licenses\\Local Licenses\\Controls\\ctrlDrivingLicenseInfo.cs",
+              "RelativeToolTip": "Licenses\\Local Licenses\\Controls\\ctrlDrivingLicenseInfo.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:45:19.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FrmDetainLicenseApplication.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Licenses\\Detain Licenses\\FrmDetainLicenseApplication.cs",
+              "RelativeDocumentMoniker": "Licenses\\Detain Licenses\\FrmDetainLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD\\Licenses\\Detain Licenses\\FrmDetainLicenseApplication.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Licenses\\Detain Licenses\\FrmDetainLicenseApplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T16:09:52.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FrmReplaceLostOrDamagedLicenseApplication.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Applications\\ReplaceLostOrDamagedLicense\\FrmReplaceLostOrDamagedLicenseApplication.cs",
+              "RelativeDocumentMoniker": "Applications\\ReplaceLostOrDamagedLicense\\FrmReplaceLostOrDamagedLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD\\Applications\\ReplaceLostOrDamagedLicense\\FrmReplaceLostOrDamagedLicenseApplication.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Applications\\ReplaceLostOrDamagedLicense\\FrmReplaceLostOrDamagedLicenseApplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T21:40:21.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ctrlDrivingLicenseInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Licenses\\Local Licenses\\Controls\\ctrlDrivingLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Licenses\\Local Licenses\\Controls\\ctrlDrivingLicenseInfo.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD\\Licenses\\Local Licenses\\Controls\\ctrlDrivingLicenseInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Licenses\\Local Licenses\\Controls\\ctrlDrivingLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T19:30:48.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FrmListDrivers.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Drivers\\FrmListDrivers.cs",
+              "RelativeDocumentMoniker": "Drivers\\FrmListDrivers.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Drivers\\FrmListDrivers.cs",
+              "RelativeToolTip": "Drivers\\FrmListDrivers.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAQwIkAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:59:52.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FrmReplaceLostOrDamagedLicenseApplication.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Applications\\ReplaceLostOrDamagedLicense\\FrmReplaceLostOrDamagedLicenseApplication.cs",
+              "RelativeDocumentMoniker": "Applications\\ReplaceLostOrDamagedLicense\\FrmReplaceLostOrDamagedLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Applications\\ReplaceLostOrDamagedLicense\\FrmReplaceLostOrDamagedLicenseApplication.cs",
+              "RelativeToolTip": "Applications\\ReplaceLostOrDamagedLicense\\FrmReplaceLostOrDamagedLicenseApplication.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAEwCcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T22:02:37.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FrmRenewLocalDrivingLicense.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Applications\\Renew Local Driving Licence\\FrmRenewLocalDrivingLicense.cs",
+              "RelativeDocumentMoniker": "Applications\\Renew Local Driving Licence\\FrmRenewLocalDrivingLicense.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Applications\\Renew Local Driving Licence\\FrmRenewLocalDrivingLicense.cs",
+              "RelativeToolTip": "Applications\\Renew Local Driving Licence\\FrmRenewLocalDrivingLicense.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowEcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T21:01:35.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ctrlDrivingLicenseInfoWithFilter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Licenses\\Local Licenses\\Controls\\ctrlDrivingLicenseInfoWithFilter.cs",
+              "RelativeDocumentMoniker": "Licenses\\Local Licenses\\Controls\\ctrlDrivingLicenseInfoWithFilter.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD\\Licenses\\Local Licenses\\Controls\\ctrlDrivingLicenseInfoWithFilter.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Licenses\\Local Licenses\\Controls\\ctrlDrivingLicenseInfoWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:35:08.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FrmShowDriverLicenseInfo.cs",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Licenses\\Local Licenses\\FrmShowDriverLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Licenses\\Local Licenses\\FrmShowDriverLicenseInfo.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Licenses\\Local Licenses\\FrmShowDriverLicenseInfo.cs",
+              "RelativeToolTip": "Licenses\\Local Licenses\\FrmShowDriverLicenseInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAEwBwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T20:41:32.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FrmScheduleTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD FullProject\\DVLD\\Tests\\FrmScheduleTest.cs",
+              "RelativeDocumentMoniker": "Tests\\FrmScheduleTest.cs",
+              "ToolTip": "C:\\Users\\REDA\\OneDrive\\Desktop\\DVLD\\Tests\\FrmScheduleTest.cs [Design]",
+              "RelativeToolTip": "..\\..\\DVLD\\Tests\\FrmScheduleTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:02:22.78Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 83,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
